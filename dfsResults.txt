@@ -1,0 +1,5 @@
+Link: http://www2.hawaii.edu/~tidota/212s21/  Depth: 0
+Link: https://cdn.jsdelivr.net/npm/marked/marked.min.js  Depth: 1
+Link: https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css  Depth: 1
+Link: https://www.w3schools.com/w3css/4/w3.css  Depth: 1
+Link: https://fonts.googleapis.com/css?family=Inconsolata  Depth: 1
