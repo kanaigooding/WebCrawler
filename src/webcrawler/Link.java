@@ -45,7 +45,7 @@ public class Link {
 
     ArrayList<String> result = new ArrayList<>();
 
-    String regex = "(https?|ftp|file)://[-a-zA-Z0-9+&@#/%?=~_|!:,.;]*[-a-zA-Z0-9+&@#/%=~_|]";
+    String regex = "href = (https?|ftp|file)://[-a-zA-Z0-9+&@#/%?=~_|!:,.;]*[-a-zA-Z0-9+&@#/%=~_|]";
 
     Pattern p = Pattern.compile(regex);
     Matcher m = p.matcher(getHTML());
